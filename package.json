@@ -1,0 +1,12 @@
+{
+  "name": "graveyardgrab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Graveyard Grab — 4-player local maze arcade game",
+  "scripts": {
+    "start": "python3 server.py",
+    "test": "node --test tests/"
+  },
+  "license": "MIT"
+}
